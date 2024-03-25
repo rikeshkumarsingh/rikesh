@@ -1193,7 +1193,14 @@ section {
 .box2{
   margin: 10px;
 }
-
+.btns{
+  color: #fff;
+  background-color: #d43076;;
+}
+.btns:hover{
+  color: #d43076;
+  background-color: #fff;
+}
 
 @media screen and (max-width:512px) {
   .box3{
@@ -1206,3 +1213,6 @@ section {
     height: 300px;
   }
 }
+
+
+
